@@ -1,0 +1,19 @@
+
+{
+  "short_name": "الحزب الراتب",
+  "name": "تطبيق الحزب الراتب - رواية ورش",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2807/2807718.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#064e3b",
+  "background_color": "#f8fafc",
+  "dir": "rtl",
+  "lang": "ar"
+}
